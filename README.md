@@ -1,7 +1,3 @@
-I'm Göksel from Turkey, I really like analyzing and interpreting data. 
-
-- I'm currently learning  Deep Learning. 
-
 <a href="https://github.com/erdibayir" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erdibayir&show_icons=true&theme=material-palenight"/>
 </a>
